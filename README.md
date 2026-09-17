@@ -223,3 +223,6 @@ WinSMS is available as a full free version, providing all features and updates i
 ---
 
 Get started with WinSMS today and discover the ease of sending SMS from your PC!
+
+---
+**Last updated:** 2026-09-17 14:39:59 UTC
